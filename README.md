@@ -2,6 +2,10 @@
   <img src="assets/logo.png" width="180" height="180">
   <h1 align="center">The Guard Bot</h1>
 </p>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
 The Guard is a Telegram bot made to help admins manage their groups.
 
 Initially created to moderate [The Devs Network](https://thedevs.network).
